@@ -23,9 +23,12 @@ To get started with Chatbox Framework, follow these steps:
 
 For more detailed information on getting started with Chatbox Framework, please refer to the [official documentation](https://chatbox.com/docs).
 
+Lesson from [Machine Learning Certification](https://www.igmguru.com/course/machine-learning-certification-training/)
+
 ## Examples
 
 ### Creating a Chatbot
+
 
 ```javascript
 const chatbot = chatbox.createChatbot({
@@ -41,8 +44,7 @@ const chatbot = chatbox.createChatbot({
 });
 
 
-### Integrating with Facebook Messenger
-
+Integrating with Facebook Messenger
 
 const facebookMessengerChannel = chatbox.createFacebookMessengerChannel({
   pageAccessToken: '<PAGE_ACCESS_TOKEN>',
