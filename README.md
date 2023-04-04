@@ -57,5 +57,3 @@ const facebookMessengerChannel = chatbox.createFacebookMessengerChannel({
 });
 
 chatbox.addChannel(facebookMessengerChannel);
-[
-lesson from -Machine Learning Certification
