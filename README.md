@@ -58,4 +58,4 @@ const facebookMessengerChannel = chatbox.createFacebookMessengerChannel({
 
 chatbox.addChannel(facebookMessengerChannel);
 
-lesson from - (https://www.igmguru.com/course/machine-learning-certification-training/) [Machine learning certification]
+lesson from - [Machine learning certification](https://www.igmguru.com/course/machine-learning-certification-training/)
