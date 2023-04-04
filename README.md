@@ -39,7 +39,8 @@ const chatbot = chatbox.createChatbot({
     // Add logic for processing outgoing messages
   },
 });
-###Integrating with Facebook Messenger
+<h1>**Integrating with Facebook Messenger**</h1>
+
 const facebookMessengerChannel = chatbox.createFacebookMessengerChannel({
   pageAccessToken: '<PAGE_ACCESS_TOKEN>',
   appSecret: '<APP_SECRET>',
